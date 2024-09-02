@@ -1,5 +1,5 @@
 ---
-title: "TwoMillion"
+title: <span style="color:#BAFFAF">TwoMillion</span>
 layout: single
 excerpt: ""
 header:

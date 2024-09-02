@@ -1,12 +1,12 @@
 ---
-title: "Github Pages"
+title: <span style="color:#c0c0c0">GitHub</span> <span style="color:white">Pages</span>
 layout: single
 excerpt: ""
 header:
 show_date: true
 classes: wide
 header:
-  teaser: "/assets/images/"
+  teaser: "/assets/images/githubpages/GPBanner.png"
   teaser_home_page: true
   icon: ""
 categories:
@@ -19,6 +19,8 @@ date: 2024-06-18
 ---
 
 # <span style="color:#2D9CDB">CREAR PÁGINA CON GITHUB PAGES</span>
+
+![](/assets/images/githubpages/GPBanner.png)
 
 GitHub Pages es un servicio ofrecido por GitHub que permite a los usuarios alojar sitios web estáticos directamente desde un repositorio de GitHub.
 
