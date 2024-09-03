@@ -15,7 +15,7 @@ tags:
 
 
 
-date: 2024-06-18 
+date: 2024-08-28 
 ---
 
 # <span style="color:#2D9CDB">CREAR PÁGINA CON GITHUB PAGES</span>
