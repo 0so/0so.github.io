@@ -12,7 +12,12 @@ header:
 categories:
   - Tutoriales
 tags:
-
+  - GitHub Pages
+  - Jekyll
+  - Ruby
+  - Bundler
+  - Desarrollo web
+  - Markdown
 
 
 date: 2024-08-28 
