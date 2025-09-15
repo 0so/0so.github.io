@@ -30,7 +30,7 @@ date: 2025-09-15
 ![](/assets/images/htb-writeup-environment/Environment.png)
 
 
-Lla máquina tiene dos puertos abiertos. El puerto 22 (SSH), usando OpenSSH 9.2, y el puerto 80, corriendo un servidor web Nginx 1.22.1, pero la página no redirige bien a http://environment.htb. 
+La máquina tiene dos puertos abiertos. El puerto 22 (SSH), usando OpenSSH 9.2, y el puerto 80, corriendo un servidor web Nginx 1.22.1.
 
 
 ```bash
